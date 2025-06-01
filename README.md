@@ -55,7 +55,7 @@ The dataset is based on **anonymized data from a real manufacturing company**, e
 ---
 
 ## 👤 Author
-Created by: **Kristýna čadková**  
+Created by: **Kristýna Čadková**  
 Email: kristyna.posingerova@seznam.cz  
 Discord: kristyna_90682
 
